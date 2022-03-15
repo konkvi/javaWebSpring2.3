@@ -1,4 +1,4 @@
-package org.konkvistador.exeption;
+package org.konkvistador.exception;
 
 public class NotFoundException extends RuntimeException {
     public NotFoundException() {
